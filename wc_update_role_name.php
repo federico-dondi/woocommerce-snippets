@@ -4,7 +4,7 @@
 *
 * @param  	  string  $role     the role to visually rename.
 * @param      string  $new_name the renaming value.
-* @return     bool - true if renaming was successful, false otherwise
+* @return     bool    true if renaming was successful, false otherwise
 * @author     Federico Dondi
 * @copyright	Federico Dondi - 29/01/2021
 * @version    1.0
